@@ -1,0 +1,21 @@
+## Instructions
+
+Given a multiple-choice question and set of answer options for the question, choose the correct answer from the list of options.
+
+
+## Question and Answer Options
+
+{question}
+
+{options}
+
+## Output
+
+Produce the correct answer's ID in a JSON object and include your reasoning for why you chose that particular answer.
+
+```json
+{{"answer":<PUT THE CORRECT ANSWER ID HERE>, "reasoning": <PUT YOUR REASONING HERE>}}
+```
+
+
+Let's think step by step.

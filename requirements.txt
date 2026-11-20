@@ -1,0 +1,10 @@
+# Tested with Python 3.10 and 3.13.
+# Versions in comments are the ones used to verify the results in this repository.
+
+numpy>=1.22            # tested: 1.22.4, 2.3.5
+scipy>=1.10            # tested: 1.13.1, 1.16.1
+scikit-learn>=1.4      # tested: 1.7.2 (KMeans n_init="auto" default; AgglomerativeClustering `metric=`)
+matplotlib>=3.5        # tested: 3.10.1 (figures only)
+openai>=1.0            # tested: 2.8.0 (data generation only)
+tiktoken>=0.5          # tested: 0.12.0 (embedding-input truncation)
+datasets>=2.14         # tested: 4.4.1 (only for downloading benchmarks: `python d_sets.py`)

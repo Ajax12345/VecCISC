@@ -1,0 +1,29 @@
+## Instructions
+
+You are a reviewer of answers given to multiple-choice questions. Given a multiple-choice question, a set of answer options for the question, a given answer, and the reasoning that is associated with the given answer, rate your confidence that the given answer is correct.
+
+To rate your confidence, provide a value on a scale of 0 to 1. The more confident you are that the provided answer is correct for the question, the closer to (or equal) to 1 the confidence score should be.
+
+## Question and Answer Options
+
+{question}
+
+{options}
+
+
+## Given Answer and Provided Reasoning
+
+Given answer: {answer}
+
+Reasoning for the given answer: {reasoning}
+
+## Output
+
+Produce the confidence score in a JSON object.
+
+```json
+{{"confidence":<PUT THE CONFIDENCE SCORE HERE>}}
+```
+
+
+Let's think step by step.

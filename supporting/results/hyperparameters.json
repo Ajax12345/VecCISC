@@ -1,0 +1,137 @@
+{
+    "gpt-4o-mini": {
+        "aqua_rat": {
+            "T": 0.05,
+            "C": 4,
+            "C_HAC": 12
+        },
+        "commonsense_qa": {
+            "T": 0.01,
+            "C": 13,
+            "C_HAC": 11
+        },
+        "arch_challenging": {
+            "T": 0.24000000000000007,
+            "C": 13,
+            "C_HAC": 10
+        },
+        "mmlu_pro": {
+            "T": 0.5800000000000003,
+            "C": 9,
+            "C_HAC": 9
+        },
+        "gpaq": {
+            "T": 0.01,
+            "C": 6,
+            "C_HAC": 6
+        }
+    },
+    "llama-3.1-8b-instant": {
+        "aqua_rat": {
+            "T": 0.23000000000000007,
+            "C": 9,
+            "C_HAC": 9
+        },
+        "commonsense_qa": {
+            "T": 0.3000000000000001,
+            "C": 9,
+            "C_HAC": 9
+        },
+        "arch_challenging": {
+            "T": 0.15,
+            "C": 13,
+            "C_HAC": 13
+        },
+        "mmlu_pro": {
+            "T": 0.3000000000000001,
+            "C": 9,
+            "C_HAC": 10
+        },
+        "gpaq": {
+            "T": 0.6200000000000003,
+            "C": 6,
+            "C_HAC": 8
+        }
+    },
+    "Qwen/Qwen2.5-7B-Instruct-Turbo": {
+        "aqua_rat": {
+            "T": 0.02,
+            "C": 13,
+            "C_HAC": 13
+        },
+        "commonsense_qa": {
+            "T": 0.03,
+            "C": 11,
+            "C_HAC": 14
+        },
+        "arch_challenging": {
+            "T": 1.440000000000001,
+            "C": 10,
+            "C_HAC": 10
+        },
+        "mmlu_pro": {
+            "T": 0.060000000000000005,
+            "C": 8,
+            "C_HAC": 8
+        },
+        "gpaq": {
+            "T": 1.480000000000001,
+            "C": 10,
+            "C_HAC": 10
+        }
+    },
+    "mistralai/Mistral-7B-Instruct-v0.1": {
+        "aqua_rat": {
+            "T": 0.01,
+            "C": 7,
+            "C_HAC": 7
+        },
+        "commonsense_qa": {
+            "T": 0.7000000000000004,
+            "C": 10,
+            "C_HAC": 10
+        },
+        "arch_challenging": {
+            "T": 1.1500000000000008,
+            "C": 10,
+            "C_HAC": 10
+        },
+        "mmlu_pro": {
+            "T": 0.6400000000000003,
+            "C": 7,
+            "C_HAC": 8
+        },
+        "gpaq": {
+            "T": 0.10999999999999999,
+            "C": 3,
+            "C_HAC": 10
+        }
+    },
+    "llama-3.3-70b-versatile": {
+        "aqua_rat": {
+            "T": 0.09999999999999999,
+            "C": 2,
+            "C_HAC": 7
+        },
+        "commonsense_qa": {
+            "T": 0.17,
+            "C": 11,
+            "C_HAC": 11
+        },
+        "arch_challenging": {
+            "T": 0.03,
+            "C": 13,
+            "C_HAC": 13
+        },
+        "mmlu_pro": {
+            "T": 0.08,
+            "C": 11,
+            "C_HAC": 9
+        },
+        "gpaq": {
+            "T": 0.060000000000000005,
+            "C": 15,
+            "C_HAC": 16
+        }
+    }
+}

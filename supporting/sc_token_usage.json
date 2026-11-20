@@ -1,0 +1,132 @@
+{
+    "gpt-4o-mini": {
+        "aqua_rat": {
+            "sc": 3192.0,
+            "cisc": 13041.955
+        },
+        "commonsense_qa": {
+            "sc": 2851.643,
+            "cisc": 11086.23
+        },
+        "arch_challenging": {
+            "sc": 3490.74,
+            "cisc": 12245.373
+        },
+        "mmlu_pro": {
+            "sc": 5410.34,
+            "cisc": 16990.156
+        },
+        "gpaq": {
+            "sc": 5673.223443223444,
+            "cisc": 18594.18315018315
+        },
+        "usmle": {
+            "sc": 0,
+            "cisc": 0
+        }
+    },
+    "llama-3.1-8b-instant": {
+        "aqua_rat": {
+            "sc": 3191.231,
+            "cisc": 15481.519
+        },
+        "commonsense_qa": {
+            "sc": 2842.36,
+            "cisc": 10934.113
+        },
+        "arch_challenging": {
+            "sc": 3490.74,
+            "cisc": 12292.105
+        },
+        "mmlu_pro": {
+            "sc": 5410.175,
+            "cisc": 18500.838
+        },
+        "gpaq": {
+            "sc": 5668.82967032967,
+            "cisc": 19659.465201465202
+        },
+        "usmle": {
+            "sc": 0,
+            "cisc": 0
+        }
+    },
+    "Qwen/Qwen2.5-7B-Instruct-Turbo": {
+        "aqua_rat": {
+            "sc": 3192.0,
+            "cisc": 11674.311
+        },
+        "commonsense_qa": {
+            "sc": 2842.36,
+            "cisc": 10630.377
+        },
+        "arch_challenging": {
+            "sc": 3490.74,
+            "cisc": 11602.691
+        },
+        "mmlu_pro": {
+            "sc": 5410.34,
+            "cisc": 16474.855
+        },
+        "gpaq": {
+            "sc": 5673.223443223444,
+            "cisc": 17950.159340659342
+        },
+        "usmle": {
+            "sc": 0,
+            "cisc": 0
+        }
+    },
+    "mistralai/Mistral-7B-Instruct-v0.1": {
+        "aqua_rat": {
+            "sc": 3188.582,
+            "cisc": 9344.999
+        },
+        "commonsense_qa": {
+            "sc": 2841.813,
+            "cisc": 7699.969
+        },
+        "arch_challenging": {
+            "sc": 3463.4314516129034,
+            "cisc": 8784.133064516129
+        },
+        "mmlu_pro": {
+            "sc": 5400.37,
+            "cisc": 14053.347
+        },
+        "gpaq": {
+            "sc": 5594.908424908425,
+            "cisc": 14481.822344322345
+        },
+        "usmle": {
+            "sc": 0,
+            "cisc": 0
+        }
+    },
+    "llama-3.3-70b-versatile": {
+        "aqua_rat": {
+            "sc": 3188.493,
+            "cisc": 14451.888
+        },
+        "commonsense_qa": {
+            "sc": 2842.36,
+            "cisc": 13108.468
+        },
+        "arch_challenging": {
+            "sc": 3490.74,
+            "cisc": 14715.451
+        },
+        "mmlu_pro": {
+            "sc": 5409.994,
+            "cisc": 20810.381
+        },
+        "gpaq": {
+            "sc": 5673.223443223444,
+            "cisc": 25235.309523809523
+        },
+        "usmle": {
+            "sc": 0,
+            "cisc": 0
+        }
+    }
+}

@@ -1,0 +1,1 @@
+You are a helpful question answerer. You will evaluate multiple-choice questions that require different types of commonsense knowledge.
